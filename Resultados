@@ -1,0 +1,20 @@
+C:/Users/matsu/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.exe
+Escribe una oración:
+Una vez fui al parque y me cai
+
+RECORRIDOS
+--------------------
+Inorden: al cai fui me parque Una vez y 
+Preorden: Una fui al cai parque me vez y 
+Postorden: cai al me parque fui y vez Una 
+
+INFORMACIÓN
+--------------------
+Total de nodos: 8
+Nodos internos: 5
+Máximo alfabético: y
+
+Hojas: cai me y 
+Nodos internos: Una fui al parque vez 
+
+Process finished with exit code 0.
