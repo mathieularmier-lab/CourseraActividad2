@@ -18,3 +18,46 @@ Hojas: cai me y
 Nodos internos: Una fui al parque vez 
 
 Process finished with exit code 0.
+
+C:/Users/matsu/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.exe
+Escribe una oración:
+hola hola hola hola hola hola hola 
+
+RECORRIDOS
+--------------------
+Inorden: hola(x7) 
+Preorden: hola(x7) 
+Postorden: hola(x7) 
+
+INFORMACIÓN
+--------------------
+Total de nodos: 1
+Nodos internos: 0
+Máximo alfabético: hola
+
+Hojas: hola(x7) 
+Nodos internos: 
+
+Process finished with exit code 0.
+
+
+C:/Users/matsu/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.exe
+Escribe una oración:
+mexicanos al grito de guerra, el acero aprestad y  el bridon, y retiemblen sus centros la tierra. Al sonoro rugir del cañon. Ciña ¡oh patria! tus sienes de oliva de la paz del arcangel divino, que en el cielo tu eterno destino por el dedo de dios escribio. masiosare un extraño enemigo profanar con su planta tu suele, piensa ¡oh patria querida! que el cielo un soldado en cada hijo te dio.
+
+RECORRIDOS
+--------------------
+Inorden: acero al(x2) aprestad arcangel bridon cada cañon centros cielo(x2) Ciña con de(x4) dedo del(x2) destino dio dios divino el(x5) en(x2) enemigo escribio eterno extraño grito guerra hijo la(x2) masiosare mexicanos oh(x2) oliva patria(x2) paz piensa planta por profanar que(x2) querida retiemblen rugir sienes soldado sonoro su suele sus te tierra tu(x2) tus un(x2) y(x2) 
+Preorden: mexicanos al(x2) acero grito de(x4) aprestad bridon arcangel centros cañon cada Ciña cielo(x2) con el(x5) del(x2) dedo divino destino dios dio en(x2) eterno escribio enemigo extraño guerra la(x2) hijo masiosare y(x2) retiemblen oh(x2) patria(x2) oliva paz que(x2) por planta piensa profanar querida sus sonoro rugir sienes soldado su suele tierra te tus tu(x2) un(x2) 
+Postorden: acero arcangel cada cañon cielo(x2) con Ciña centros bridon aprestad dedo dio dios destino divino del(x2) enemigo escribio extraño eterno en(x2) el(x5) de(x4) hijo masiosare la(x2) guerra grito al(x2) oliva piensa planta profanar por querida que(x2) paz patria(x2) oh(x2) soldado sienes rugir suele su sonoro te tu(x2) un(x2) tus tierra sus retiemblen y(x2) mexicanos 
+
+INFORMACIÓN
+--------------------
+Total de nodos: 54
+Nodos internos: 34
+Máximo alfabético: y
+
+Hojas: acero arcangel cada cielo(x2) con dedo dio enemigo extraño hijo masiosare oliva piensa profanar querida soldado suele te tu(x2) un(x2) 
+Nodos internos: mexicanos al(x2) grito de(x4) aprestad bridon centros cañon Ciña el(x5) del(x2) divino destino dios en(x2) eterno escribio guerra la(x2) y(x2) retiemblen oh(x2) patria(x2) paz que(x2) por planta sus sonoro rugir sienes su tierra tus 
+
+Process finished with exit code 0.
